@@ -13,3 +13,5 @@ Accessibility: It assists users with visual impairments or reading difficulties 
 Convenience: It allows users to have text read aloud while performing other tasks, maximizing multitasking potential.
 Customization: The potential to incorporate features like voice selection and playback controls can enhance the user experience.
 By combining HTML for structure, CSS for styling, and JavaScript for functionality, this project demonstrates the power of web development in creating user-friendly and interactive applications.
+
+This project was inspired and created by following GreatStack youtube tutorial 
